@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mongezi 👋
+# Hey, I'm Mo 👋
 
 **Full-Stack Developer · Java / Spring Boot · Next.js · React · Node.js · Docker**
 
