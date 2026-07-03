@@ -2,7 +2,7 @@
 
 # Hey, I'm Mo 👋
 
-**Full-Stack Developer · Java / Spring Boot · Next.js · React · Node.js · Docker**
+**Software Developer · Java / Spring Boot · Next.js · React · Node.js · Docker**
 
 *Final-year Computer Science student @ Tshwane University of Technology · Pretoria, SA*
 
@@ -18,7 +18,7 @@
 
 I build production-quality software end to end — from database schema to containerised deployment. Strong emphasis on clean architecture, security, and maintainable code. Currently finishing my Diploma in Computer Science (graduating October 2026) and actively seeking a **graduate programme**, **internship**, or **junior developer role** in South Africa.
 
-- 🔭 Currently building full-stack apps with **Next.js 15** and **Spring Boot**
+- 🔭 Currently building distributed software with **Next.js** and **Spring Boot**
 - 🌱 Deepening expertise in **DevOps**, **cloud deployment**, and **system design**
 - 💡 Passionate about clean code, RESTful APIs, and scalable architecture
 - 📍 Based in **Pretoria, Gauteng** — available across the Gauteng corridor
